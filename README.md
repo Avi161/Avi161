@@ -6,5 +6,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a human :))
   
-![Dmytro Baida's LeetCode stats light](https://leetcode-badge-sage.vercel.app/badge/Aviiii1/?bgColor=fff)
+![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/Aviiii1/?bgColor=fff)
 
