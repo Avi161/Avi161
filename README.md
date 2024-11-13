@@ -5,6 +5,6 @@
 - 📫 How to reach me : paudela@union.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a human :))
-  
-![Dmytro Baida's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/Aviiii1/?bgColor=282828)
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aviiii1?theme=dark&font=PT%20Mono&ext=heatmap)
