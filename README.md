@@ -5,7 +5,7 @@
 - 📫 How to reach me : paudela@union.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a human :))
-
+![Dmytro Baida's LeetCode stats light](https://leetcode-badge-sage.vercel.app/badge/Aviiii1/?bgColor=fff)
 <!---
 Avi161/Avi161 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
