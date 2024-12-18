@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I am a human :))
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Aviiii1?theme=dark&font=PT%20Mono&ext=heatmap)
+
 
 
