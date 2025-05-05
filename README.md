@@ -47,8 +47,9 @@
 </p>
 
 ---
-
+<p align="center">
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aviiii1)
+</p>
 
 
 
