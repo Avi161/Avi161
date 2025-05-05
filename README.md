@@ -44,11 +44,13 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avi161&layout=compact&theme=radical" 
     alt="Top Languages" 
   />
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Aviiii1)
 </p>
 
 ---
 
+<p align="center">
+  <link href="  ![LeetCode Stats](https://leetcard.jacoblin.cool/Aviiii1)">
+</p>
 
 
 
