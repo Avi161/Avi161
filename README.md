@@ -47,11 +47,9 @@
 </p>
 
 ---
-
 <p align="center">
-  <link href="  ![LeetCode Stats](https://leetcard.jacoblin.cool/Aviiii1)">
+  <img src="https://leetcard.jacoblin.cool/Aviiii1" alt="LeetCode Stats" />
 </p>
-
 
 
 
