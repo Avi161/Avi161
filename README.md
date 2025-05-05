@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avi161&color=blue" alt="Profile views" />
-</p>
 
 <h1 align="center">Hi there, I'm Avi <code>👋</code></h1>
 
@@ -11,8 +8,8 @@
 
 - 🔭 I’m currently studying **Computer Science & Mathematics** at Union College.  
 - 👀 I’m passionate about algorithms, distributed systems, and full-stack development.  
-- 🌱 I’m actively **learning** advanced probability, React Native, and cloud architectures.  
-- 💞️ I’m **looking for internships** to get hands-on experience and mentorship.  
+- 🌱 I’m currently **learning** advanced probability, and Full Stack Web Development.  
+- 💞️ I’m **looking for internships** to get hands-on experience.  
 - 📫 **How to reach me**: paudela@union.edu  
 - 😄 **Pronouns**: he/him  
 - ⚡ **Fun fact**: I am a human!
