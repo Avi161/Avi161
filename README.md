@@ -48,7 +48,8 @@
 
 ---
 
-![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/Aviiii1?theme=dark&bgColor=282828)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aviiii1)
+
 
 
 ## 🔗 Connect with me
