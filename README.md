@@ -58,9 +58,6 @@
   <a href="https://www.linkedin.com/in/avigya-paudel-531119306/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/Aviiii1/">
-    <img src="https://img.shields.io/badge/LeetCode-F89F40?logo=leetcode&logoColor=white&style=flat-square" alt="LeetCode" />
-  </a>
   <a href="mailto:paudela@union.edu">
     <img src="https://img.shields.io/badge/Email-Email-blue?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
   </a>
