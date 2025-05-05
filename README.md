@@ -4,23 +4,6 @@
 
 <h1 align="center">Hi there, I'm Avi <code>👋</code></h1>
 
-<p align="center">
-  <a href="https://github.com/Avi161">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Avi161?label=Follow&style=social" />
-  </a>
-  <a href="https://github.com/Avi161?tab=repositories">
-    <img alt="Repo count" src="https://img.shields.io/github/repo-size/Avi161?style=flat-square" />
-  </a>
-  <a href="https://github.com/Avi161">
-    <img alt="Top Language" src="https://img.shields.io/github/languages/top/Avi161?style=flat-square" />
-  </a>
-  <a href="https://leetcode.com/u/Aviiii1/">
-    <img alt="LeetCode Stats" src="https://leetcode-badge.vercel.app/Aviiii1?theme=light" />
-  </a>
-  <a href="mailto:paudela@union.edu">
-    <img alt="Email" src="https://img.shields.io/badge/Email-paudela%40union.edu-blue?style=flat-square" />
-  </a>
-</p>
 
 ---
 
@@ -71,14 +54,11 @@
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/avigya-paudel-531119306/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/Aviiii1/">
     <img src="https://img.shields.io/badge/LeetCode-F89F40?logo=leetcode&logoColor=white&style=flat-square" alt="LeetCode" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter" />
   </a>
   <a href="mailto:paudela@union.edu">
     <img src="https://img.shields.io/badge/Email-Email-blue?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
