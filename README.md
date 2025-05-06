@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Avi <code>👋</code></h1>
 
-
+<h3><a href="https://avigya.vercel.app/">View My Portfolio</a></h3>
 ---
 
 ## 👨‍🎓 About Me
