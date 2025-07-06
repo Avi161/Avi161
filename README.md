@@ -47,12 +47,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Aviiii1" alt="LeetCode Stats" />
-</p>
-
-
-
 
 ## 🔗 Connect with me
 
