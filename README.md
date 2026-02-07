@@ -7,12 +7,10 @@
 ## 👨‍🎓 About Me
 
 - 🔭 I’m currently studying **Computer Science & Mathematics** at Union College.  
-- 👀 I’m passionate about algorithms, distributed systems, and full-stack development.  
-- 🌱 I’m currently **learning** advanced probability, and Full Stack Web Development.  
-- 💞️ I’m **looking for internships** to get hands-on experience.  
+- 👀 I’m passionate about AI Safety.  
+- 🌱 I’m currently **learning** Mechanistic Interpretability.  
+- 💞️ I’m **looking** for someone ;)  
 - 📫 **How to reach me**: paudela@union.edu  
-- 😄 **Pronouns**: he/him  
-- ⚡ **Fun fact**: I am a human!
 
 ---
 
